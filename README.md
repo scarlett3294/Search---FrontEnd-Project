@@ -1,6 +1,6 @@
-# Google Search Front End Project
+# Search Front End Project
 
-A simple front-end implementation of Google Search, Image Search, and Advanced Search.
+A simple front-end implementation mimicking Google's design aesthetics and features, such as dynamic search queries, image search functionality, and advanced search options.
 
 ## Features
 
